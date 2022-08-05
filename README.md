@@ -1,1 +1,1 @@
-Usage python kasa.py <money>
+Usage python kasa.py money
